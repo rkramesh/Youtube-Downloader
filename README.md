@@ -2,11 +2,9 @@
 
 Simple Youtube downloader Script for windows
 
-Dependencies
+## Dependencies
+* [youtube-dl](https://pypi.python.org/pypi/youtube_dl)
 
-*[youtube-dl](https://pypi.python.org/pypi/youtube_dl)
-
-
-Required Version
-
+## Required Version
 python 2.7 or lower
+
